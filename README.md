@@ -1,46 +1,33 @@
-Seaborn-Distribution-Visualizer
-📌 About
+# Seaborn-Distribution-Visualizer
 
-This mini project shows how to create and visualize random data distributions using NumPy and Seaborn. The focus is on keeping the structure simple and only using concepts introduced in W3Schools tutorials.
+This project demonstrates how to generate and visualize different probability distributions using **NumPy** and **Seaborn**. It focuses on simple distributions (Normal, Binomial, Poisson) and uses `sns.displot()` for plotting.
 
-🎯 Features
+## Features
+- Create Normal, Binomial, and Poisson distributions with NumPy  
+- Visualize distributions individually using Seaborn  
+- Display plots one by one using Matplotlib  
 
-Generates Normal Distribution data with NumPy.
+## Expected Output
+- A curve showing Normal distribution  
+- A histogram showing Binomial distribution  
+- A histogram showing Poisson distribution  
 
-Generates Binomial Distribution data with NumPy.
+## Requirements
+- Python 3  
+- NumPy  
+- Matplotlib  
+- Seaborn  
 
-Generates Poisson Distribution data with NumPy.
-
-Visualizes each distribution using Seaborn’s displot().
-
-Displays plots one after another using matplotlib.pyplot.show().
-
-📊 Expected Output
-
-A plot of the Normal Distribution (bell curve).
-
-A plot of the Binomial Distribution.
-
-A plot of the Poisson Distribution.
-
-🛠️ Requirements
-
-Python 3
-
-NumPy
-
-Matplotlib
-
-Seaborn
-
-Install any missing packages with:
-
+Install missing packages with:  
+```bash
 pip install numpy matplotlib seaborn
+Usage
 
-🚀 Usage
+Run the Python script.
+Close each plot window to move to the next distribution.
 
-Run the Python file.
+---
 
-Close each plot window to see the next one.
+✅ Now you can **directly copy–paste** each block into GitHub.  
 
-Observe how the three distributions differ visually.
+Do you want me to also reformat your last **NumPy projects (Search/Sort/Filter etc.)** in this same style so everything looks uniform on your profile?
