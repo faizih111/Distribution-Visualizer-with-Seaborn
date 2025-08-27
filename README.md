@@ -28,6 +28,4 @@ Close each plot window to move to the next distribution.
 
 ---
 
-✅ Now you can **directly copy–paste** each block into GitHub.  
 
-Do you want me to also reformat your last **NumPy projects (Search/Sort/Filter etc.)** in this same style so everything looks uniform on your profile?
